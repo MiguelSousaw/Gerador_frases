@@ -3,7 +3,7 @@ Gerador de frases dinâmico com React
 
 # Funcionalidades: 
 <ul>
-  <li>Seleciona qual cateforia de frases desejavel</li>
+  <li>Seleciona qual categoria de frases o usuário deseja receber</li>
   <li>Imprime de forma aleátoria frases da categoria para o usuário</li>
 </ul>
 
