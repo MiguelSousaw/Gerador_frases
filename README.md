@@ -7,4 +7,4 @@ Gerador de frases dinâmico com React
   <li>Imprime de forma aleátoria frases da categoria para o usuário</li>
 </ul>
 
-Deploy: [gerador_frases](gerador-frases-zeta.vercel.app)
+Deploy: [gerador_frases](http://gerador-frases-zeta.vercel.app)
