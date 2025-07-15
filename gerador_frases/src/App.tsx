@@ -59,7 +59,7 @@ function App() {
     const categoria = allfrases[categoriaSelecionada]
     const randomIndex = Math.floor(Math.random() * categoria.frases.length)
 
-    setTextofrase(categoria.frases[randomIndex])
+    setTextofrase(`"${categoria.frases[randomIndex]}"`)
   }
 
   return (
